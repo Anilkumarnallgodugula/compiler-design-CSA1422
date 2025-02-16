@@ -101,4 +101,5 @@ int main() {
 
     return 0;
 }
+![com_1output](https://github.com/user-attachments/assets/314a6995-56e2-433f-9996-7c32cc2ae8b9)
 
